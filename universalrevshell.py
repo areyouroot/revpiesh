@@ -14,7 +14,7 @@ def d(cmd):
             if cmd == 'powershell':
                 subprocess.call(["C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe"])
             elif cmd == 'help':
-                print('''hello this is help this pie shell is made by abdul faheem cmd from malware india
+                print('''hello this is help this pie shell is made by abdul faheem cmd 
                 start= to start an application
                 eg start chrome
                 others all commands are based on the os thank u''')
