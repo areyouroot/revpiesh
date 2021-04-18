@@ -10,9 +10,8 @@ import getpass
 def d(cmd):
     try:
         while True:
-            if cmd == 'qqq':
-                exit()
-            elif cmd == 'powershell':
+            
+            if cmd == 'powershell':
                 subprocess.call(["C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe"])
             elif cmd == 'help':
                 print('''hello this is help this pie shell is made by abdul faheem cmd from malware india
