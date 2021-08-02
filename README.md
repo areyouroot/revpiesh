@@ -7,6 +7,8 @@ how to use this program
 
     `git clone https://github.com/areyouroot/revpiesh`
     
-2. Navigate to the directory
+2. update your stuff
 
-   
+    `sudo apt update;sudo apt upgrade`
+
+3. 
