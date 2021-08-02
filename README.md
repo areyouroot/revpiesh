@@ -1,3 +1,9 @@
 # revpiesh
-this is only for educational purpose if u misuse it i am not responsible 
-and this is made by A.Abdul Faheem
+this program is made for educational and fun purpose
+how to use this program 
+<u>step 1.
+  1. download the given source code
+  `git clone https://github.com/areyouroot/revpiesh`
+  
+  
+  
