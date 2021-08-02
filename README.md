@@ -11,4 +11,8 @@ how to use this program
 
     `sudo apt update;sudo apt upgrade`
 
-3. 
+3. change the dir
+
+    `cd revpiesh`
+    
+till now i have coded till tis i will complete it soon
